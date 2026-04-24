@@ -13,3 +13,5 @@
 <img width="346" height="799" alt="image" src="https://github.com/user-attachments/assets/e90acf30-4604-4b2d-89ac-6463b24f3b10" />
 
 The Life Hack Myth Buster is a professional Android application built in Kotlin that leverages a ViewFlipper architecture for seamless, bug-free screen transitions and a scalable, data-driven approach to manage quiz loops. By utilizing a modular Flashcard data class and ViewModel-ready logic, the app dynamically handles question display, scoring, and personalized feedback, while custom UI styling ensures an attractive, accessible user experience. The project maintains industry-standard development practices through integrated Log.d tracking for real-time debugging and an automated GitHub Actions CI/CD pipeline, ensuring robust version control and reliable builds, ultimately delivering a polished, educational tool that exceeds standard functional requirements.
+
+https://youtu.be/3N5_u6CK518
