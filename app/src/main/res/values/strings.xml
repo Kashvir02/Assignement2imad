@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">aSSIGNEMENT 2</string>
+    <string name="correct_feedback">Correct! That\'s a real time-saver!</string>
+    <string name="incorrect_feedback">Wrong! That\'s just an urban myth.</string>
+    <string name="feedback_high">Outstanding work, Master Hacker! You know your technology inside and out.</string>
+    <string name="feedback_medium">Well played. You\'re tech-savvy, but keep studying to verify every hack.</string>
+    <string name="feedback_low">Keep safe online! Practice makes perfect—try again to spot more myths.</string>
+</resources>
